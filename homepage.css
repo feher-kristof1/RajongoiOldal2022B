@@ -4,7 +4,7 @@ body {
     background-repeat: no-repeat;
 }
 h1 {
-    background-color: rgba(128, 128, 128, 0.808);
+    background-color: rgba(128, 128, 128, 0.708);
     text-align: center;
     font-size: 1410;
     color: rgb(3, 0, 100);
@@ -14,9 +14,9 @@ h1 {
 }
 
 h2 {
-    background-color: rgba(128, 128, 128, 0.808);
+    background-color: rgba(128, 128, 128, 0.708);
     color: rgb(3, 0, 100);
-    padding-left: 0px;
+    
     font-size: 35px;
     text-align: center;
     padding-bottom: 50px;
@@ -24,9 +24,9 @@ h2 {
 }
 
 h3 {
-    background-color: rgba(128, 128, 128, 0.808);
+    background-color: rgba(128, 128, 128, 0.708);
     color: rgb(3, 0, 100);
-    padding-left: 0px;
+    
     font-size: 35px;
     text-align: center  ;
     padding-bottom: 50px;

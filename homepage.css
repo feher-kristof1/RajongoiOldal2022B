@@ -29,13 +29,14 @@ h3 {
     font-size: 35px;
     text-align: center  ;
 }
-a {
+h1 a {
     color: rgb(3, 0, 100);
     text-decoration: none;
 }
 .nvbr{
     background-color: rgba(0, 0, 0, 0.9);
     font-family: 'Poppins' ,sans-serif;
+
 }
 .nvbr a:active,a:link,a:visited{
     text-decoration: none;

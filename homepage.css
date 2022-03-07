@@ -1,17 +1,42 @@
+
 body {
     background-image: url('források/képek/AC\ home.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 h1 {
-    background-color: rgba(128, 128, 128, 0.459);
+    background-color: rgba(128, 128, 128, 0.808);
     text-align: center;
-    font-size: 410;
-    color: rgb(102, 17, 17);
+    font-size: 1410;
+    color: rgb(3, 0, 100);
+    padding-bottom: 100px;
+    padding-top: 90px;
+    font-size: 60px;
+}
+
+h2 {
+    background-color: rgba(128, 128, 128, 0.808);
+    color: rgb(3, 0, 100);
+    padding-left: 0px;
+    font-size: 35px;
+    text-align: center;
+}
+
+h3 {
+    background-color: rgba(128, 128, 128, 0.808);
+    color: rgb(3, 0, 100);
+    padding-left: 0px;
+    font-size: 35px;
+    text-align: center  ;
+}
+h1 a {
+    color: rgb(3, 0, 100);
+    text-decoration: none;
 }
 .nvbr{
     background-color: rgba(0, 0, 0, 0.9);
     font-family: 'Poppins' ,sans-serif;
+
 }
 .nvbr a:active,a:link,a:visited{
     text-decoration: none;

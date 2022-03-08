@@ -33,6 +33,9 @@ body {
     padding-bottom: 15px;
     padding-top: 15px;
 }
+.leiras #as{
+    margin-bottom: 120px;
+}
 h1 a {
     color: rgb(3, 0, 100);
     text-decoration: none;
@@ -66,4 +69,19 @@ h1 a {
 }
 .leiras h1{
     text-align: center;
+}
+.kartyak{
+    color: black;
+
+}
+.kartyak .card{
+    margin: 20px 50px;
+    background-color: rgb(209, 209, 209);
+}
+.kartyak .card-image-top{
+    transition: 1s;
+    border-radius: 100px;
+}
+.kartyak .card:hover .card-image-top{
+     background-color: orange;
 }

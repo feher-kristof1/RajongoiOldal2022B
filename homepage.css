@@ -1,37 +1,37 @@
 
 body {
-    background-image: url('források/képek/AC\ home.jpg');
+    background-image: linear-gradient( rgba(43, 43, 43, 0.426) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/AC\ home.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
-h1 {
+.udvozlo h1 {
     background-color: rgba(128, 128, 128, 0.708);
     text-align: center;
     font-size: 1410;
     color: rgb(3, 0, 100);
-    padding-bottom: 100px;
-    padding-top: 100px;
-    font-size: 60px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 30px;
 }
 
-h2 {
+.udvozlo h2 {
     background-color: rgba(128, 128, 128, 0.708);
     color: rgb(3, 0, 100);
     
-    font-size: 35px;
+    font-size: 18px;
     text-align: center;
-    padding-bottom: 50px;
-    padding-top: 90px;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 
-h3 {
+.udvozlo h3 {
     background-color: rgba(128, 128, 128, 0.708);
     color: rgb(3, 0, 100);
     
-    font-size: 35px;
+    font-size: 15px;
     text-align: center  ;
-    padding-bottom: 50px;
-    padding-top: 90px;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 h1 a {
     color: rgb(3, 0, 100);
@@ -51,4 +51,19 @@ h1 a {
 .nav-item a:hover{
     background-color: rgb(114, 1, 1);
     color: rgb(255, 255, 255);
+}
+.aclogo{
+    max-width: 600px;
+    margin-top: 50px;
+    margin-bottom: 300px;
+}
+.udvozlo h1,h2,h3{
+    
+}
+.leiras{
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+}
+.leiras h1{
+    text-align: center;
 }

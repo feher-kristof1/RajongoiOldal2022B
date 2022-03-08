@@ -1,6 +1,20 @@
 body {
-    background-image: url('források/képek/Karakterek2.0.jpg');
+    background-image: url('források/képek/karkterek3.0.jpg');
     background-size: cover;
-    background-repeat: ;
+    background-repeat: no-repeat;
+
+}
+
+h2 {
+    background-color: rgba(0, 0, 0, 0.75);
+    color: rgb(143, 142, 140);
+    font-size: 32px;
+    
+}
+
+h2 img {
+    width: 800px;
+    height: 500px;
+    float: left;
 }
 

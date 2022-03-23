@@ -4,4 +4,19 @@ body {background-image: linear-gradient( rgba(255, 255, 255, 0.575) , rgba(3, 3,
 background-attachment: fixed;}
     .káruszel{
         background-color: rgba(0, 0, 0, 0.89);
+        margin-top: 100px;
     }
+ a.infbutton{
+    color: white;
+}
+.linkboxx{
+    background-color: rgba(255, 255, 255, 0.239);
+    
+}
+.linkboxx:hover{
+    background-color: white;
+    font-size: 120%;
+    width: 110%;
+    transition: 0.2s;
+    box-shadow: 2px black;
+}

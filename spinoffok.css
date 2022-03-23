@@ -1,8 +1,32 @@
-div #szovveg{
-    background-color: rgba(0, 0, 0, 0.335);
-    color: white;
+ul .tartalom{
+    background-color: rgba(0, 0, 0, 0.75);
+    color: rgb(100, 100, 100);
     margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 55px;
+    list-style-type: none;
+    text-align: center;
+    font-size: 30px; 
 }
-li{
-    
+
+div{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+ul{
+    list-style-type:none;
+}
+ .tartalom div{
+    background-color: rgba(0, 0, 0, 0.75);
+    color: rgb(100, 100, 100);
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 55px;
+    list-style-type: none;
+    text-align: center;
+    font-size: 30px;  
+}
+
+div .forras{
+    text-align: left ;
 }

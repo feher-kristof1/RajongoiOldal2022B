@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url(források/képek/AC\ home.jpg);
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 800;
+}
+
+.bg-black {
+  background-color: black;
+}
+#container{
+
+}
+
+
+  

@@ -20,3 +20,6 @@ background-attachment: fixed;}
     transition: 0.2s;
     box-shadow: 2px black;
 }
+div.carousel-caption{
+    text-shadow: black 2px 2px;
+}

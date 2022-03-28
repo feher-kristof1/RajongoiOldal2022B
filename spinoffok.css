@@ -1,6 +1,6 @@
 ul .tartalom{
     background-color: rgba(0, 0, 0, 0.75);
-    color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
     margin-bottom: 25px;
     margin-left: 10px;
     margin-right: 55px;
@@ -18,7 +18,7 @@ ul{
 }
  .tartalom div{
     background-color: rgba(0, 0, 0, 0.75);
-    color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
     margin-bottom: 25px;
     margin-left: 10px;
     margin-right: 55px;
@@ -29,4 +29,7 @@ ul{
 
 div .forras{
     text-align: left ;
+}
+body{
+    background-image: url('források/képek/3c2994fb3046ab04224e0fc2a8ef5c71.jpg');
 }

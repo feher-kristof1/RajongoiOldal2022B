@@ -29,4 +29,8 @@ input[type=text], select, textarea {
     border-radius: 5px;
     background-color: #6e6868;
     padding: 20px;
+    margin-top: 100px;
+  }
+  body{
+    background-image: url('források/képek/d8xk6eq-4e8f57d8-8a30-4137-9633-6cd51797fd79.jpg');
   }

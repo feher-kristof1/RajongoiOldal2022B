@@ -46,3 +46,21 @@ div.carousel-caption{
 .card p{
     font-size: 100%;
 }
+#haytham {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.575) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/dahw5rz-72720e4a-8a02-43fd-9d30-6f95d6ba5ff2.jpg');
+}
+#arno { background-image: linear-gradient( rgba(255, 255, 255, 0.575) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/assassin-s-creed-unity-arno-dorian-video-games-wallpaper-preview.jpg');
+
+}
+#ezio {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.575) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/assassins-creed-2-Ezio-auditore-4K-Wallpaper.jpg');
+}
+#bayek {background-image: linear-gradient( rgba(255, 255, 255, 0.575) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/wp2002438.jpg');
+
+}
+#connor {background-image: linear-gradient( rgba(255, 255, 255, 0.575) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/192-1927049_assassins-creed-wallpaper-4k.jpg');
+
+}
+#edward {background-image: linear-gradient( rgba(255, 255, 255, 0.575) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/17196483.jpg');
+
+}

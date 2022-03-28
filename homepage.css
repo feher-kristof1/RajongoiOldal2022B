@@ -113,7 +113,7 @@ border-radius: 50px;
 }
 
 .nevek{
-    box-shadow: 10px 10px 5px 12px rgb(0, 0, 0);
+    box-shadow: 5px 3px 5px 5px rgb(0, 0, 0);
 }
 
 .tooltiptext {
@@ -137,7 +137,7 @@ border-radius: 50px;
 
 .container {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    color: #fff;
+    color: rgb(0, 255, 221);
     box-shadow: 10px 10px 5px 12px rgb(0, 0, 0);
 }
 #kapcs {
@@ -145,4 +145,25 @@ border-radius: 50px;
 }
 #kvííz {
     background-image: url('források/képek/3zkukvllfc711.jpg');
+}
+#kapcs .card{
+    background-color: black;
+    box-shadow: rgb(0, 255, 221) 1px 1px 1px 1px;
+    color: rgb(0, 255, 221) !important;
+    transition: 0.5s;
+    
+}
+#kapcs .card:hover{
+    box-shadow: rgb(0, 255, 221) 1px 1px 1px 5px;
+    transform: scaleX(1.05);
+
+
+}
+#kapcs .card a{
+    color: rgb(0, 255, 221) !important;
+}
+#kapcs .card a:hover{
+    font-size: 105%;
+    color:rgb(255, 0, 0) ;
+    text-decoration: underline;
 }

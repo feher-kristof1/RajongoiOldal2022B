@@ -29,7 +29,20 @@ div.carousel-caption{
     color: white;
     margin-top: 100px;
 }
-.card h5{
+.card h5,h1,h6{
     text-shadow: gray  1px 2px;
     font-weight: 700;
 } 
+.card a{
+    color: white;
+    transition: 0.5s;
+    
+}
+.card a:hover{
+    color: silver;
+    text-decoration: underline;
+    font-size: 105%;
+}
+.card p{
+    font-size: 100%;
+}

@@ -133,3 +133,9 @@ border-radius: 50px;
 .nevek:hover .tooltiptext{
      visibility: visible;
 }
+
+.container {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color: #fff;
+    box-shadow: 10px 10px 5px 12px rgb(0, 0, 0);
+}

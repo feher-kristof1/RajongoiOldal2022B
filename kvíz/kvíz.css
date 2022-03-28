@@ -6,8 +6,7 @@ body{
 	color: #333;
   font-weight: 300;
   text-align: center;
-  background-color: #f8f6f0;
-  background-image: linear-gradient( rgba(43, 43, 43, 0.426) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/AC\ home.jpg');
+  background-image: linear-gradient( rgba(43, 43, 43, 0.426) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/AC/ home.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 

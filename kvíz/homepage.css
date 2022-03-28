@@ -1,0 +1,92 @@
+
+body {
+    background-image: linear-gradient( rgba(43, 43, 43, 0.426) , rgba(3, 3, 3, 0.336) ) ,url('források/képek/AC\ home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.udvozlo h1 {
+    background-color: rgba(128, 128, 128, 0.708);
+    text-align: center;
+    font-size: 1410;
+    color: rgb(3, 0, 100);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.udvozlo h2 {
+    background-color: rgba(128, 128, 128, 0.708);
+    color: rgb(3, 0, 100);
+    
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.udvozlo h3 {
+    background-color: rgba(128, 128, 128, 0.708);
+    color: rgb(3, 0, 100);
+    
+    font-size: 15px;
+    text-align: center  ;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.leiras #as{
+    margin-bottom: 120px;
+}
+h1 a {
+    color: rgb(3, 0, 100);
+    text-decoration: none;
+}
+.nvbr{
+    background-color: rgba(0, 0, 0, 0.9);
+    font-family: 'Poppins' ,sans-serif;
+
+}
+.nvbr a:active,a:link,a:visited{
+    text-decoration: none;
+    color: rgb(175, 175, 175);
+    transition: 0.6s;
+    
+}
+.nav-item a:hover{
+    background-color: rgb(114, 1, 1);
+    color: rgb(255, 255, 255);
+}
+.aclogo{
+    max-width: 600px;
+    margin-top: 50px;
+    margin-bottom: 300px;
+}
+.udvozlo h1,h2,h3{
+    
+}
+.leiras{
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+}
+.leiras h1{
+    text-align: center;
+}
+.kartyak{
+    color: black;
+
+}
+.kartyak .card{
+    margin: 20px 50px;
+    background-color: rgb(209, 209, 209);
+}
+.kartyak .card-image-top{
+    transition: 1s;
+    border-radius: 100px;
+}
+.kartyak .card:hover .card-image-top{
+     background-color: orange;
+}
+
+p{
+    text-decoration: none;
+    text-align: center;
+}

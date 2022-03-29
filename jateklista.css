@@ -20,3 +20,13 @@ h1{
 .card{
     background-color: rgba(209, 209, 209, 0);
 }
+.card a:hover {
+    font-size: 120%;
+    color: rgba(255, 0, 0, 0.664);
+    
+
+}
+.card a{
+    transition: 0.4s;
+    
+}

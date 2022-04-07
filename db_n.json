@@ -1,0 +1,139 @@
+[
+    {
+      "_id": 1,
+      "gameName": "Assassin's Creed",
+      "description": "Az első játék.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2007",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/01.jpg"
+    },
+    {
+      "_id": 2,
+      "gameName": "Assassin's Creed 2",
+      "description": "A második játék.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2009",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/02.jpg"
+    },
+    {
+      "_id": 3,
+      "gameName": "Assassin's Creed: Brotherhood",
+      "description": "A második játék történetét folytatja.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2010",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/03.jpg"
+    },
+    {
+      "_id": 4,
+      "gameName": "Assassin's Creed: Revelations",
+      "description": "A második játék történetét felyezi be.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2011",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/04.jpg"
+    },
+    {
+      "_id": 5,
+      "gameName": "Assasin's Creed 3 ",
+      "description": "A harmadik játék.",
+      "isFree": false,
+      "location": 1,
+      "deliveryDate": "2012",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/05.jpg"
+    },
+    {
+      "_id": 6,
+      "gameName": "Assassin's Creed 4: Black Flag",
+      "description": "A negyedik játék.",
+      "isFree": false,
+      "location": 1,
+      "deliveryDate": "2013",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/06.jpg"
+    },
+    {
+      "_id": 7,
+      "gameName": "Assassin's Creed: Rouge",
+      "description": "Az első számozatlan játék.",
+      "isFree": false,
+      "location": 1,
+      "deliveryDate": "2014",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/07.jpg"
+    },
+    {
+      "_id": 8,
+      "bridgeName": "Assassin's Creed: Unity",
+      "description": "A legrosszabb hírű játék.",
+      "isFree": false,
+      "location": 1,
+      "deliveryDate": "2014",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/08.jpg"
+    },
+    {
+      "_id": 9,
+      "bridgeName": "Assassin's Creed: Syndicate",
+      "description": "Elődje rosszhírét örökölte meg.",
+      "isFree": false,
+      "location": 2,
+      "deliveryDate": "2015",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/09.jpg"
+    },
+    {
+      "_id": 10,
+      "bridgeName": "Assassin's Creed: Origins",
+      "description": "Az első RPG elemeket is tartalmazó játék.",
+      "isFree": false,
+      "location": 2,
+      "deliveryDate": "2017",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/10.jpg"
+    },
+    {
+      "_id": 11,
+      "bridgeName": "Assassin's Creed: Odussey",
+      "description": "Frakcióválasztást is tartalmazott már.",
+      "isFree": false,
+      "location": 2,
+      "deliveryDate": "2018",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/11.jpg"
+    },
+    {
+      "_id": 12,
+      "bridgeName": "Assassin's Creed: Vallhalla",
+      "description": "A viking korban játszódik.",
+      "isFree": false,
+      "location": 1,
+      "deliveryDate": "2007-07-23",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/12.jpg"
+    },
+    {
+      "_id": 13,
+      "bridgeName": "",
+      "description": "",
+      "isPublicRoad": true,
+      "location": 5,
+      "deliveryDate": "1930-11-23",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/13.jpg"
+    },
+    {
+      "_id": 14,
+      "bridgeName": "",
+      "description": "",
+      "isPublicRoad": true,
+      
+      "location": 7,
+      "deliveryDate": "2003-07-04",
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/14.jpg"
+    },
+    {
+      "_id": 15,
+      "bridgeName": "",
+      "description": "",
+      "isPublicRoad": true,
+      
+      "location": 1,
+      "deliveryDate": 1908,
+      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/15.jpg"
+    }
+  ]

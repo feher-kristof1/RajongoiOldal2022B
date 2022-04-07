@@ -1,0 +1,30 @@
+[
+  {
+    "_id": 1,
+    "gameCreator":"Ubisoft Montreal"
+  },
+  {
+    "_id": 2,
+    "gameCreator":"Ubisoft Québec"
+  },
+  {
+    "_id": 3,
+    "gameCreator":"Gameloft"
+  },
+  {
+    "_id": 4,
+    "gameCreator":"Climax Studios"
+  },
+  {
+    "_id": 5,
+    "gameCreator":""
+  },
+  {
+    "_id": 6,
+    "gameCreator":""
+  },
+  {
+    "_id": 7,
+    "gameCreator":""
+  }
+]

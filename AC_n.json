@@ -6,7 +6,7 @@
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2007",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
     },
     {
       "_id": 2,
@@ -15,7 +15,7 @@
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2009",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/02.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/02.jpg"
     },
     {
       "_id": 3,
@@ -24,7 +24,7 @@
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2010",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/03.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/03.jpg"
     },
     {
       "_id": 4,
@@ -33,107 +33,277 @@
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2011",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/04.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/04.jpg"
     },
     {
       "_id": 5,
       "gameName": "Assasin's Creed 3 ",
       "description": "A harmadik játék.",
       "isFree": false,
-      "location": 1,
+      "creator": 1,
       "deliveryDate": "2012",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/05.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/05.jpg"
     },
     {
       "_id": 6,
       "gameName": "Assassin's Creed 4: Black Flag",
       "description": "A negyedik játék.",
       "isFree": false,
-      "location": 1,
+      "creator": 1,
       "deliveryDate": "2013",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/06.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/06.jpg"
     },
     {
       "_id": 7,
       "gameName": "Assassin's Creed: Rouge",
       "description": "Az első számozatlan játék.",
       "isFree": false,
-      "location": 1,
+      "creator": 1,
       "deliveryDate": "2014",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/07.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/07.jpg"
     },
     {
       "_id": 8,
       "bridgeName": "Assassin's Creed: Unity",
       "description": "A legrosszabb hírű játék.",
       "isFree": false,
-      "location": 1,
+      "creator": 1,
       "deliveryDate": "2014",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/08.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/08.jpg"
     },
     {
       "_id": 9,
       "bridgeName": "Assassin's Creed: Syndicate",
       "description": "Elődje rosszhírét örökölte meg.",
       "isFree": false,
-      "location": 2,
+      "creator": 2,
       "deliveryDate": "2015",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/09.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/09.jpg"
     },
     {
       "_id": 10,
       "bridgeName": "Assassin's Creed: Origins",
       "description": "Az első RPG elemeket is tartalmazó játék.",
       "isFree": false,
-      "location": 2,
+      "creator": 2,
       "deliveryDate": "2017",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/10.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/10.jpg"
     },
     {
       "_id": 11,
       "bridgeName": "Assassin's Creed: Odussey",
       "description": "Frakcióválasztást is tartalmazott már.",
       "isFree": false,
-      "location": 2,
+      "creator": 2,
       "deliveryDate": "2018",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/11.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/11.jpg"
     },
     {
       "_id": 12,
       "bridgeName": "Assassin's Creed: Vallhalla",
       "description": "A viking korban játszódik.",
       "isFree": false,
-      "location": 1,
+      "creator": 1,
       "deliveryDate": "2007-07-23",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/12.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/12.jpg"
     },
     {
       "_id": 13,
-      "bridgeName": "",
-      "description": "",
-      "isPublicRoad": true,
-      "location": 5,
-      "deliveryDate": "1930-11-23",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/13.jpg"
+      "gameName": "Assassin's Creed mobile game",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2007",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
     },
     {
       "_id": 14,
-      "bridgeName": "",
-      "description": "",
-      "isPublicRoad": true,
-      
-      "location": 7,
-      "deliveryDate": "2003-07-04",
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/14.jpg"
+      "gameName": "Assassin's Creed Altair's Chronicles",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2008",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
     },
     {
       "_id": 15,
-      "bridgeName": "",
-      "description": "",
-      "isPublicRoad": true,
-      
-      "location": 1,
-      "deliveryDate": 1908,
-      "pictureUrl": "http://elit.jedlik.eu/nits/bridges/15.jpg"
-    }
+      "gameName": "Assassin's Creed 2 mobile game",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2009",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 16,
+      "gameName": "Assassin's Creed Bloodlines",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2009",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 17,
+      "gameName": "Assassin's Creed 2: Discovery",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2009",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 18,
+      "gameName": "Assassin's Creed 2: Multyplayer",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2010",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 19,
+      "gameName": "Assassin's Creed: Project Legacy",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2010",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 20,
+      "gameName": "Assassin's Creed: Brotherhood mobile game ",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2010",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 21,
+      "gameName": "Assassin's Creed: Revelations mobile game",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2011",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 22,
+      "gameName": "Assassin's Creed: Mulyplayer Rearmed",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2011",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 23,
+      "gameName": "Assassin's Creed: Recollection",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2011",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 24,
+      "gameName": "Assassin's Creed 3: Liberation",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2012",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 25,
+      "gameName": "Assassin's Creed Pirates",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2013",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 26,
+      "gameName": "Assassin's Creed: Memories",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2014",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 27,
+      "gameName": "Assassin's Creed Chronicles: China",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2015",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 28,
+      "gameName": "Assassin's Creed Chronicles: India",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2016",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 29,
+      "gameName": "Assassin's Creed Chronicles: Russia",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2016",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 30,
+      "gameName": "Assassin's Creed: Identity",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2016",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 31,
+      "gameName": "Assassin's Creed Unity: Arno's Chronicles",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2017",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 32,
+      "gameName": "The Tower: Assassin's Creed",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2017",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 33,
+      "gameName": "Assassin's Creed: Rebellion",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2018",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+    {
+      "_id": 34,
+      "gameName": "Assassin's Creed: Freerunners",
+      "description": "Az első játék a szériában amely mobilra jelent meg.",
+      "isFree": false,
+      "creator": 1,
+      "deliveryDate": "2021",
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+    },
+  
   ]

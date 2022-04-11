@@ -2,7 +2,7 @@
     {
       "_id": 1,
       "gameName": "Assassin's Creed",
-      "description": "Az első játék.",
+      "description": "Assassin's Creed introduced core elements that remained in the rest of the series. Players can freely explore the game's open world, making use of Altaïr's parkour and climbing skills to navigate the environment.The game also features refined hack and slash combat, with players able to block and counter attacks, and stealth mechanics, such as hiding in crowds of people, which allow players to avoid detection by enemies or lose pursuing foes. Although players can choose the order in which they kill their main targets, the mission design was seen as linear and repetitive, due to players having to complete a number of side quests before each assassination.",
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2007",
@@ -11,7 +11,7 @@
     {
       "_id": 2,
       "gameName": "Assassin's Creed 2",
-      "description": "A második játék.",
+      "description": "Similar to the first game, Assassin's Creed II incorporates historical events into its narrative, and features recreations of several cities from the time period it is set in (in this case, Florence, Venice, Forlì, San Gimignano, and Monteriggioni). Missions are divided into main story missions, themselves divided into memory sequences reflecting points in Ezio's life, and side missions which can be accomplished at any time; this approach to mission structure remains consistent in the other games in the series.",
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2009",
@@ -20,7 +20,7 @@
     {
       "_id": 3,
       "gameName": "Assassin's Creed: Brotherhood",
-      "description": "A második játék történetét folytatja.",
+      "description": "Brotherhood shares many of the same features as the previous game though it takes place primarily in one city: Rome. Similar to the Villa Auditore, the player is able to spend money to buy and upgrade shops and other facilities throughout the city as to increase revenue they can collect from it; however, the player will be required to destroy Borgia towers that control various sections of the city before they can do so. The Brotherhood of Assassins is introduced, by which, after saving citizens from certain events, the player can invite these citizens as Assassins; they can then be dispatched to remote locations across Europe to gain experience and money, or can be called in to help the player directly in a mission.",
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2010",
@@ -29,7 +29,7 @@
     {
       "_id": 4,
       "gameName": "Assassin's Creed: Revelations",
-      "description": "A második játék történetét felyezi be.",
+      "description": "Originally Revelations was announced as Assassin's Creed: Lost Legacy, and conceptualized as a Nintendo 3DS title focusing on Ezio traveling to Masyaf to explore Altaïr's legacy and uncover the origins of the Assassin Brotherhood.[12] Sections of the game's plot and premise later became the foundation for Assassin's Creed: Revelations.[13] However, on July 15, 2011, Assassin's Creed: Lost Legacy was announced as cancelled.",
       "isFree": false,
       "creator": 1,
       "deliveryDate": "2011",
@@ -38,7 +38,7 @@
     {
       "_id": 5,
       "gameName": "Assasin's Creed 3 ",
-      "description": "A harmadik játék.",
+      "description": "Assassin's Creed III is structured similarly to the previous games, with missions taking place in an open-world map based on Colonial Boston and New York. The game offers a large wilderness area in the form of the Frontier and the Davenport Homestead, where the player can hunt animals for materials, which subsequently can be used to construct goods to be traded and sold throughout the colonies. Naval battles were introduced, wherein the player must steer a warship named Aquila in dangerous waters and perform ship-to-ship combat with cannons and mounted guns. The modern-day aspects of the story were significantly expanded, and feature actual missions that the player must undertake to progress through the story.",
       "isFree": false,
       "location": 1,
       "deliveryDate": "2012",
@@ -47,7 +47,7 @@
     {
       "_id": 6,
       "gameName": "Assassin's Creed 4: Black Flag",
-      "description": "A negyedik játék.",
+      "description": "Black Flag retains many gameplay mechanics from Assassin's Creed III, including the ship-based exploration and combat. For the first time in the series, naval exploration is a major part of the game; players can captain Edward's ship, the Jackdraw, and battle rival ships or hunt sea animals. The game includes a large open world spanning the West Indies, with players able to explore the cities of Havana, Nassau, and Kingston, as well as numerous islands, forts, and sunken ships.",
       "isFree": false,
       "location": 1,
       "deliveryDate": "2013",
@@ -56,7 +56,7 @@
     {
       "_id": 7,
       "gameName": "Assassin's Creed: Rouge",
-      "description": "Az első számozatlan játék.",
+      "description": "In March 2014, a new Assassin's Creed game code-named Comet was revealed to be in development for the PlayStation 3 and Xbox 360, set to release later that year alongside Unity.[19] By the end of the month, additional reports indicated that Comet would be set around 1758 New York City, and would feature sailing on the Atlantic Ocean. The game would be a direct sequel to Black Flag, and would be the first to feature a Templar as the main protagonist, named Shay. In May 2014, Guillemot stated that Assassin's Creed games would continue releasing on the last generation PlayStation 3 and Xbox 360 for the foreseeable future, despite the franchise moving to the current generation PlayStation 4 and Xbox One with Unity.[20] On August 5, Ubisoft announced the game as Assassin's Creed Rogue. In addition to being a sequel to Black Flag, the game also retains most of its gameplay mechanics, including the ship-based exploration and combat. Although a few new features were added, Rogue was ultimately criticized for having too many similarities to Black Flag and failing to innovate the series' formula.",
       "isFree": false,
       "location": 1,
       "deliveryDate": "2014",
@@ -65,7 +65,7 @@
     {
       "_id": 8,
       "bridgeName": "Assassin's Creed: Unity",
-      "description": "A legrosszabb hírű játék.",
+      "description": "Assassin's Creed Unity was released in November 2014 (concurrently with Rogue) for the PlayStation 4, Xbox One, Windows, and Stadia.In the present-day, the player character is a player of Helix, an Animus-powered gaming device produced by Abstergo, who hope to use their unaware playerbase to locate more Pieces of Eden. While playing, the player is contacted by the modern-day Assassins, and invited to join them as an Initiate and help them locate the body of an 18th-century Sage. The main story is set in Paris during the French Revolution, and follows Assassin Arno Dorian as he attempts to avenge his foster father's death at the hands of the Templars, which leads him to discover an internal conflict between the Templars as a result of the Revolution.",
       "isFree": false,
       "location": 1,
       "deliveryDate": "2014",
@@ -74,7 +74,7 @@
     {
       "_id": 9,
       "bridgeName": "Assassin's Creed: Syndicate",
-      "description": "Elődje rosszhírét örökölte meg.",
+      "description": "Assassin's Creed Syndicate was released in October 2015 for the PlayStation 4 and Xbox One, in November 2015 for Windows, and in December 2020 for the Stadia. In the present-day, players control the same unnamed Assassin Initiate from Assassin's Creed Unity, who this time must help the Assassins locate a powerful artifact, the Shroud of Eden, hidden somewhere in London. The main story is set in Victorian era London and follows twin assassins Jacob and Evie Frye as they navigate the corridors of organized crime, and gradually take back the city from Templar control.",
       "isFree": false,
       "location": 2,
       "deliveryDate": "2015",
@@ -83,7 +83,7 @@
     {
       "_id": 10,
       "bridgeName": "Assassin's Creed: Origins",
-      "description": "Az első RPG elemeket is tartalmazó játék.",
+      "description": "Assassin's Creed Origins is a soft reboot of the franchise, and was released in October 2017 for the PlayStation 4, Xbox One, Windows, and Stadia. The game introduces a new protagonist in the modern-day, Layla Hassan, and explores the origins of the Assassin Brotherhood and their conflict with the Templar Order. The story is set in Ancient Egypt, near the end of the Ptolemaic period (49-43 BC), and follows a Medjay named Bayek and his wife Aya, whose fight to protect their people from the Order of the Ancients—forerunners to the Templar Order—leads them to create the Hidden Ones—forerunners to the Assassin Brotherhood. The game features a large open world, and puts more emphasis on the series' role-playing elements, introducing an overhauled hitbox-based combat system.",
       "isFree": false,
       "location": 2,
       "deliveryDate": "2017",
@@ -91,8 +91,8 @@
     },
     {
       "_id": 11,
-      "bridgeName": "Assassin's Creed: Odussey",
-      "description": "Frakcióválasztást is tartalmazott már.",
+      "bridgeName": "Assassin's Creed: Odyssey",
+      "description": "Assassin's Creed Odyssey was released in October 2018 for the PlayStation 4, Xbox One, Windows and Nintendo Switch, and in November 2019 for the Stadia. The modern-day narrative continues from the events of Origins, as Layla, after being recruited into the Assassins, searches for Atlantis, which is rumored to house a powerful artifact: the Staff of Hermes. The main story is set during the Peloponnesian War between Athens and Sparta, at the height of Classical Greece. Players choose between two playable protagonists, Alexios and Kassandra, and embark on a quest to discover mysteries surrounding their family, as well as to undermine a proto-Templar organization: the Cult of Kosmos.",
       "isFree": false,
       "location": 2,
       "deliveryDate": "2018",
@@ -101,7 +101,7 @@
     {
       "_id": 12,
       "bridgeName": "Assassin's Creed: Vallhalla",
-      "description": "A viking korban játszódik.",
+      "description": "Assassin's Creed Valhalla was released in November 2020 for the PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Windows, Stadia, and Luna. The game concludes the modern-day story arc focusing on Layla, who must find a First Civilization temple in Norway to restore the Earth's magnetic field to its proper strength, since Desmond's sacrifice in Assassin's Creed III only delayed the apocalypse. The main narrative takes place in the late 9th century, during the Viking expansions into the British Isles. Players control a customizable Viking raider, Eivor Varinsdottir, who becomes embroiled in the conflict between the Hidden Ones and the Order of the Ancients while attempting to establish a new Viking clan in England.",
       "isFree": false,
       "location": 1,
       "deliveryDate": "2007-07-23",

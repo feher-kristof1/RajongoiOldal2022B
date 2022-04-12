@@ -6,7 +6,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2007",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 2,
@@ -15,7 +15,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2009",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/02.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC2.jpg"
     },
     {
       "_id": 3,
@@ -24,7 +24,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2010",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/03.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC3.jpg"
     },
     {
       "_id": 4,
@@ -33,7 +33,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2011",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/04.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC4.jpg"
     },
     {
       "_id": 5,
@@ -42,7 +42,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2012",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/05.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACbrotherhood.jpg"
     },
     {
       "_id": 6,
@@ -51,7 +51,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2013",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/06.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACodyssey.jpg"
     },
     {
       "_id": 7,
@@ -60,7 +60,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2014",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/07.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACorigins.jpg"
     },
     {
       "_id": 8,
@@ -69,7 +69,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2014",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/08.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACrevelations.jpg"
     },
     {
       "_id": 9,
@@ -78,7 +78,7 @@
       "isFree": false,
       "creator": 2,
       "releaseDate": "2015",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/09.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACrouge.jpg"
     },
     {
       "_id": 10,
@@ -87,7 +87,7 @@
       "isFree": false,
       "creator": 2,
       "releaseDate": "2017",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/10.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACsyndicate.jpg"
     },
     {
       "_id": 11,
@@ -96,7 +96,7 @@
       "isFree": false,
       "creator": 2,
       "releaseDate": "2018",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/11.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACunity.jpg"
     },
     {
       "_id": 12,
@@ -105,7 +105,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2007-07-23",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/12.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/ACvalhalla.jpg"
     },
     {
       "_id": 13,
@@ -114,7 +114,7 @@
       "isFree":  true,
       "creator": 1,
       "releaseDate": "2007",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 14,
@@ -123,7 +123,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2008",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 15,
@@ -132,7 +132,7 @@
       "isFree":  true,
       "creator": 1,
       "releaseDate": "2009",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 16,
@@ -141,7 +141,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2009",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 17,
@@ -150,7 +150,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2009",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 18,
@@ -159,7 +159,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2010",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 19,
@@ -168,7 +168,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2010",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 20,
@@ -177,7 +177,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2010",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 21,
@@ -186,7 +186,7 @@
       "isFree": true,
       "creator": 1,
       "releaseDate": "2011",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 22,
@@ -195,7 +195,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2011",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 23,
@@ -204,7 +204,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2011",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 24,
@@ -213,7 +213,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2012",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 25,
@@ -222,7 +222,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2013",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 26,
@@ -231,7 +231,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2014",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 27,
@@ -240,7 +240,7 @@
       "isFree":  true,
       "creator": 1,
       "releaseDate": "2015",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 28,
@@ -249,7 +249,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2016",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 29,
@@ -258,7 +258,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2016",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 30,
@@ -267,7 +267,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2016",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 31,
@@ -276,7 +276,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2017",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 32,
@@ -285,7 +285,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2017",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 33,
@@ -294,7 +294,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2018",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     },
     {
       "_id": 34,
@@ -303,7 +303,7 @@
       "isFree": false,
       "creator": 1,
       "releaseDate": "2021",
-      "pictureUrl": "http://elit.jedlik.eu/nits/AC/01.jpg"
+      "pictureUrl": "http://elit.jedlik.eu/nits/AC/AC1.jpg"
     }
   
   ]
